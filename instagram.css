@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 12px 600px 12px;
+    font-size: 15px;
+}
+
+.perfil, .negrito {
+    border-radius: 50%;
+    vertical-align: middle;
+}
+
+.negrito {
+    font-weight: bold;
+}
+
+.post {
+    width: 320px;
+    height: 320px;
+}
+
+.curtidas{
+    font-size: 15px;
+}
+
+.icon {
+    width: 20px;
+    height: 20px;
+}
+
+.texto_cinza {
+    color: grey;
+}
+
+.comentario{
+    color: grey;
+    border-style: groove;
+    padding: 5px;
+}
